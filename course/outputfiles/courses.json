@@ -1,0 +1,774 @@
+[
+    {
+        "course": "Advanced Management Programme",
+        "url": "https://www.insead.edu/executive-education/general-management/advanced-management-programme",
+        "category": [
+            "General Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/general-management"
+        ]
+    },
+    {
+        "course": "Transition to General Management",
+        "url": "https://www.insead.edu/executive-education/general-management/transition-general-management",
+        "category": [
+            "General Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/general-management"
+        ]
+    },
+    {
+        "course": "Management Acceleration Programme",
+        "url": "https://www.insead.edu/executive-education/general-management/management-acceleration-programme",
+        "category": [
+            "General Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/general-management"
+        ]
+    },
+    {
+        "course": "Leading Business Transformation in Asia - NEW!",
+        "url": "https://www.insead.edu/executive-education/general-management/leading-business-transformation-asia",
+        "category": [
+            "General Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/general-management"
+        ]
+    },
+    {
+        "course": "International Directors Programme",
+        "url": "https://www.insead.edu/executive-education/corporate-governance/international-directors-programme",
+        "category": [
+            "Corporate Governance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance"
+        ]
+    },
+    {
+        "course": "Aspiring Directors Programme ",
+        "url": "https://www.insead.edu/executive-education/corporate-governance/aspiring-directors-programme",
+        "category": [
+            "Corporate Governance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance"
+        ]
+    },
+    {
+        "course": "Advanced Strategy for Directors ",
+        "url": "https://www.insead.edu/executive-education/corporate-governance/advanced-strategy-directors",
+        "category": [
+            "Corporate Governance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance"
+        ]
+    },
+    {
+        "course": "Leading from the Chair",
+        "url": "https://www.insead.edu/executive-education/corporate-governance/leading-from-the-chair",
+        "category": [
+            "Corporate Governance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance"
+        ]
+    },
+    {
+        "course": "Value Creation for Owners and Directors",
+        "url": "https://www.insead.edu/executive-education/corporate-governance/value-creation-owners-directors",
+        "category": [
+            "Corporate Governance",
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "International Directors Banking Programme ",
+        "url": "https://www.insead.edu/executive-education/corporate-governance/international-directors-banking-programme",
+        "category": [
+            "Corporate Governance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance"
+        ]
+    },
+    {
+        "course": "The Family Enterprise Challenge",
+        "url": "https://www.insead.edu/executive-education/entrepreneurship-family-business/family-enterprise-challenge",
+        "category": [
+            "Corporate Governance",
+            "Entrepreneurship & Family Business"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/entrepreneurship-family-business"
+        ]
+    },
+    {
+        "course": "Competitive Strategy",
+        "url": "https://www.insead.edu/executive-education/strategy/competitive-strategy",
+        "category": [
+            "Corporate Governance",
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "M&As and Corporate Strategy",
+        "url": "https://www.insead.edu/executive-education/strategy/merger-acquisition-corporate-strategy",
+        "category": [
+            "Corporate Governance",
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Managing Partnerships and Strategic Alliances",
+        "url": "https://www.insead.edu/executive-education/strategy/managing-partnerships-strategic-alliances",
+        "category": [
+            "Corporate Governance",
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Finance for Executives",
+        "url": "https://www.insead.edu/executive-education/finance/finance-executives",
+        "category": [
+            "Corporate Governance",
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "Advanced International Corporate Finance",
+        "url": "https://www.insead.edu/executive-education/finance/advanced-international-corporate-finance",
+        "category": [
+            "Corporate Governance",
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "Risk Management in Banking",
+        "url": "https://www.insead.edu/executive-education/finance/risk-management-banking",
+        "category": [
+            "Corporate Governance",
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "AVIRA: Awareness, Vision, Imagination, Role, Action",
+        "url": "https://www.insead.edu/executive-education/top-management/avira-awareness-vision-imagination-role-action",
+        "category": [
+            "Corporate Governance",
+            "Top Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/top-management"
+        ]
+    },
+    {
+        "course": "LEAP: Leadership Excellence through Awareness and Practice",
+        "url": "https://www.insead.edu/executive-education/top-management/leap-leadership-excellence-awareness-practice",
+        "category": [
+            "Corporate Governance",
+            "Top Management",
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/corporate-governance",
+            "https://www.insead.edu/executive-education/top-management",
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "The Challenge of Leadership",
+        "url": "https://www.insead.edu/executive-education/top-management/challenge-leadership",
+        "category": [
+            "Top Management",
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/top-management",
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Leading Change in an Age of Digital Transformation - NEW!",
+        "url": "https://www.insead.edu/executive-education/leadership/leading-change-age-digital-transformation",
+        "category": [
+            "Leadership",
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/digital-transformation-innovation"
+        ]
+    },
+    {
+        "course": "Leading Across Borders and Cultures",
+        "url": "https://www.insead.edu/executive-education/leadership/leading-across-borders-cultures",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Women Leaders Programme",
+        "url": "https://www.insead.edu/executive-education/leadership/women-leaders-programme",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Leading for Results",
+        "url": "https://www.insead.edu/executive-education/leadership/leading-for-results",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "The Leadership Transition",
+        "url": "https://www.insead.edu/executive-education/leadership/leadership-transition",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "High Impact Leadership Programme",
+        "url": "https://www.insead.edu/executive-education/leadership/high-impact-leadership-programme",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Learning to Lead",
+        "url": "https://www.insead.edu/executive-education/leadership/learning-lead",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Leading Successful Change",
+        "url": "https://www.insead.edu/executive-education/leadership/leading-successful-change",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Strategic Decision Making for Leaders - NEW!",
+        "url": "https://www.insead.edu/executive-education/leadership/strategic-decision-making-leaders",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "INSEAD Coaching Certificate",
+        "url": "https://www.insead.edu/executive-education/leadership/coaching-certificate",
+        "category": [
+            "Leadership",
+            "Coaching"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/insead-executive-coaching#team"
+        ]
+    },
+    {
+        "course": "Advanced Programme in Coaching Groups",
+        "url": "https://www.insead.edu/executive-education/leadership/advanced-programme-coaching-groups",
+        "category": [
+            "Leadership",
+            "Coaching"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/insead-executive-coaching#team"
+        ]
+    },
+    {
+        "course": "Integrating Performance and Progress",
+        "url": "https://www.insead.edu/executive-education/leadership/integrating-performance-progress",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Negotiation Dynamics",
+        "url": "https://www.insead.edu/executive-education/marketing-sales/negotiation-dynamics",
+        "category": [
+            "Leadership",
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "Strategy Execution Programme",
+        "url": "https://www.insead.edu/executive-education/strategy/strategy-execution-programme",
+        "category": [
+            "Leadership",
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Strategic Leadership in Africa - NEW! ",
+        "url": "https://www.insead.edu/executive-education/leadership/strategic-leadership-africa",
+        "category": [
+            "Leadership",
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "Developing Emerging Leaders",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/developing-emerging-leaders",
+        "category": [
+            "Leadership",
+            "Certificates"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world"
+        ]
+    },
+    {
+        "course": "Leadership Communication with Impact",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/leadership-communication-impact",
+        "category": [
+            "Leadership"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership"
+        ]
+    },
+    {
+        "course": "Leading Organisations in Disruptive Times",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/leading-organisations-disruptive-times",
+        "category": [
+            "Leadership",
+            "Certificates"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/leadership",
+            "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world"
+        ]
+    },
+    {
+        "course": "AI for Business ",
+        "url": "https://www.insead.edu/executive-education/digital-transformation-innovation/ai-business",
+        "category": [
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation"
+        ]
+    },
+    {
+        "course": "Leading Digital Transformation and Innovation",
+        "url": "https://www.insead.edu/executive-education/digital-transformation-innovation/leading-digital-transformation-innovation-overview",
+        "category": [
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation"
+        ]
+    },
+    {
+        "course": "Innovation by Design",
+        "url": "https://www.insead.edu/executive-education/digital-transformation-innovation/innovation-design",
+        "category": [
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation"
+        ]
+    },
+    {
+        "course": "Leading Digital Marketing Strategy",
+        "url": "https://www.insead.edu/executive-education/marketing-sales/leading-digital-marketing-strategy-overview",
+        "category": [
+            "Digital Transformation & Innovation",
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation",
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "Strategy in the Age of Digital Disruption ",
+        "url": "https://www.insead.edu/executive-education/digital-transformation-innovation/strategy-age-digital-disruption-overview",
+        "category": [
+            "Digital Transformation & Innovation",
+            "Strategy",
+            "Certificates"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation",
+            "https://www.insead.edu/executive-education/strategy",
+            "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world"
+        ]
+    },
+    {
+        "course": "Innovation in the Age of Disruption",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/innovation-age-disruption",
+        "category": [
+            "Digital Transformation & Innovation",
+            "Certificates"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation",
+            "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world"
+        ]
+    },
+    {
+        "course": "INSEAD Blue Ocean Strategy",
+        "url": "https://www.insead.edu/executive-education/strategy/blue-ocean-strategy",
+        "category": [
+            "Digital Transformation & Innovation",
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation",
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Transforming Your Business with AI - NEW ",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/transform-business-ai",
+        "category": [
+            "Digital Transformation & Innovation"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation"
+        ]
+    },
+    {
+        "course": "Driving Digital Marketing Strategy - NEW!",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/driving-digital-marketing-strategy-overview",
+        "category": [
+            "Digital Transformation & Innovation",
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation",
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "Design Thinking and Creativity for Business",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/design-thinking-creativity-business",
+        "category": [
+            "Digital Transformation & Innovation",
+            "Certificates"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/digital-transformation-innovation",
+            "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world"
+        ]
+    },
+    {
+        "course": "Powering Growth",
+        "url": "https://www.insead.edu/executive-education/strategy/powering-growth",
+        "category": [
+            "Strategy",
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy",
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "Business Strategy for HR Leaders",
+        "url": "https://www.insead.edu/executive-education/strategy/business-strategy-hr-leaders",
+        "category": [
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Strategic Marketing Programme",
+        "url": "https://www.insead.edu/executive-education/marketing-sales/strategic-marketing-programme",
+        "category": [
+            "Strategy",
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy",
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "International Management in Asia Pacific",
+        "url": "https://www.insead.edu/executive-education/strategy/international-management-asia-pacific",
+        "category": [
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Corporate Venturing and Innovation - NEW!",
+        "url": "https://www.insead.edu/executive-education/entrepreneurship-family-business/corporate-venturing-innovation",
+        "category": [
+            "Strategy",
+            "Entrepreneurship & Family Business"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy",
+            "https://www.insead.edu/executive-education/entrepreneurship-family-business"
+        ]
+    },
+    {
+        "course": "Strategic R&D Management",
+        "url": "https://www.insead.edu/executive-education/research-development-operations-management/strategic-research-development-management",
+        "category": [
+            "Strategy",
+            "R&D and Operations Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy",
+            "https://www.insead.edu/executive-education/research-development-operations-management"
+        ]
+    },
+    {
+        "course": "Business Strategy and Financial Performance",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/business-strategy-financial-performance",
+        "category": [
+            "Strategy"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/strategy"
+        ]
+    },
+    {
+        "course": "Financial Analysis for Non-Financial Managers - NEW",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/financial-analysis-managers",
+        "category": [
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "Advanced Asset Management",
+        "url": "https://www.insead.edu/executive-education/finance/advanced-asset-management",
+        "category": [
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "Strategic Management in Banking",
+        "url": "https://www.insead.edu/executive-education/finance/strategic-management-banking",
+        "category": [
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "INSEAD Fintech Programme - NEW",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/insead-fintech-programme",
+        "category": [
+            "Finance"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/finance"
+        ]
+    },
+    {
+        "course": "B2B Marketing Strategies ",
+        "url": "https://www.insead.edu/executive-education/marketing-sales/b2b-marketing-strategies",
+        "category": [
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "Leading the Effective Sales Force",
+        "url": "https://www.insead.edu/executive-education/marketing-sales/leading-effective-sales-force",
+        "category": [
+            "Marketing & Sales"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/marketing-sales"
+        ]
+    },
+    {
+        "course": "Supply Chain Management",
+        "url": "https://www.insead.edu/executive-education/research-development-operations-management/supply-chain-management",
+        "category": [
+            "R&D and Operations Management"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/research-development-operations-management"
+        ]
+    },
+    {
+        "course": "Entrepreneurship: New Business Ventures",
+        "url": "https://www.insead.edu/executive-education/entrepreneurship-family-business/entrepreneurship-new-business-ventures-overview",
+        "category": [
+            "Entrepreneurship & Family Business"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/entrepreneurship-family-business"
+        ]
+    },
+    {
+        "course": "INSEAD Social Entrepreneurship Programme",
+        "url": "https://www.insead.edu/executive-education/entrepreneurship-family-business/social-entrepreneurship-programme",
+        "category": [
+            "Entrepreneurship & Family Business"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/entrepreneurship-family-business"
+        ]
+    },
+    {
+        "course": "Developing Leaders in Global Banking",
+        "url": "https://www.insead.edu/executive-education/partner-programmes/developing-leaders-global-banking",
+        "category": [
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "Product Management Executive Programme",
+        "url": "https://www.insead.edu/executive-education/partner-programmes/product-management-executive-overview",
+        "category": [
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "CTAM Europe Executive Management Programme ",
+        "url": "https://www.insead.edu/executive-education/partner-programmes/ctam-europe-executive-management-programme",
+        "category": [
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "SAL-INSEAD Law Firm Leadership Programme",
+        "url": "https://www.insead.edu/executive-education/partner-programmes/SAL-INSEAD-law-firm-leadership-programme-overview",
+        "category": [
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "INSEAD Leadership Programme for Senior Executives - India",
+        "url": "https://www.insead.edu/executive-education/partner-programmes/leadership-programme-senior-executives-india",
+        "category": [
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "INSEAD Healthcare Compliance Implementation Leadership Programme",
+        "url": "https://www.insead.edu/executive-education/partner-programmes/healthcare-compliance-implementation-leadership-programme",
+        "category": [
+            "Partner Programmes"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/partner-programmes"
+        ]
+    },
+    {
+        "course": "Building Digital Partnerships and Ecosystems ",
+        "url": "https://www.insead.edu/executive-education/open-online-programmes/building-digital-partnerships-ecosystems",
+        "category": [
+            "Certificates"
+        ],
+        "category_url": [
+            "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world"
+        ]
+    }
+]

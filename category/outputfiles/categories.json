@@ -1,0 +1,67 @@
+[
+    {
+        "category": "General Management",
+        "url": "https://www.insead.edu/executive-education/general-management",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Corporate Governance",
+        "url": "https://www.insead.edu/executive-education/corporate-governance",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Top Management",
+        "url": "https://www.insead.edu/executive-education/top-management",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Leadership",
+        "url": "https://www.insead.edu/executive-education/leadership",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Digital Transformation & Innovation",
+        "url": "https://www.insead.edu/executive-education/digital-transformation-innovation",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Strategy",
+        "url": "https://www.insead.edu/executive-education/strategy",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Finance",
+        "url": "https://www.insead.edu/executive-education/finance",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Marketing & Sales",
+        "url": "https://www.insead.edu/executive-education/marketing-sales",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "R&D and Operations Management",
+        "url": "https://www.insead.edu/executive-education/research-development-operations-management",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Entrepreneurship & Family Business",
+        "url": "https://www.insead.edu/executive-education/entrepreneurship-family-business",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Partner Programmes",
+        "url": "https://www.insead.edu/executive-education/partner-programmes",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Certificates",
+        "url": "https://www.insead.edu/executive-education/insead-online-certificate-leading-transforming-world",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    },
+    {
+        "category": "Coaching",
+        "url": "https://www.insead.edu/executive-education/insead-executive-coaching#team",
+        "parent_url": "https://www.insead.edu/executive-education/open-programmes"
+    }
+]
