@@ -189,7 +189,7 @@ def delete_repeat_faculties_for_faculty_list(faculties):
 
 
 def modifying_testi_title_length():
-    details = read_from_json('./final_files/detail_8888_EUR_XW_0226.json')
+    details = read_from_json('./final_files/detail_8888_EUR_XW_0524.json')
     occupations = ["Director", "Consultant", "President", "CEO", "Manager", "Head", "Owner", "Lead", "Officer"]
     for detail in details:
         all_testis = detail.get("testimonials", [])
@@ -207,22 +207,22 @@ def modifying_testi_title_length():
                 print("title: ", testi["title"])
             if len(testi["company"]) > 20:
                 print("company: ", testi["company"])
-    write_to_json(details, './final_files/detail_8888_EUR_XW_0226.json')
+    write_to_json(details, './final_files/detail_8888_EUR_XW_0524.json')
 
 
 def modify_duration_consecutive():
-    details = read_from_json('./final_files/detail_8888_EUR_XW_0226.json')
+    details = read_from_json('./final_files/detail_8888_EUR_XW_0524.json')
     for detail in details:
         detail["duration_consecutive"] = detail.get("duration_consecutive", 'Yes')
         if detail["duration_consecutive"] != "Yes" or detail["duration_consecutive"] != "":
             detail["duration_consecutive"] = "Yes"
         if detail["duration_consecutive"] == "Yes":
             detail["duration_consecutive"] = True
-    write_to_json(details, './final_files/detail_8888_EUR_XW_0226.json')
+    write_to_json(details, './final_files/detail_8888_EUR_XW_0524.json')
 
 
 def modify_course_type():
-    details = read_from_json('./final_files/detail_8888_EUR_XW_0226.json')
+    details = read_from_json('./final_files/detail_8888_EUR_XW_0524.json')
     type_map = {'Blended - Onsite & Self-paced': 'blended-os',
                 'Blended - Onsite & Virtual': 'blended-ov',
                 'Online - Self-paced': 'online-selfpaced',
@@ -232,8 +232,55 @@ def modify_course_type():
         course_type = detail.get("type", '')
         if "Live Virtual" in course_type:
             detail["type"] = detail["type"].replace("Live Virtual", 'Virtual')
-        detail["type"] = type_map.get(detail["type"],'onsite')
-    write_to_json(details, './final_files/detail_8888_EUR_XW_0226.json')
+        detail["type"] = type_map.get(detail["type"])
+    write_to_json(details, './final_files/detail_8888_EUR_XW_0524.json')
+
+
+def print_course_type():
+    details = read_from_json('./final_files/detail_8888_EUR_XW_0524.json')
+    type_map = {'Blended - Onsite & Self-paced': 'blended-os',
+                'Blended - Onsite & Virtual': 'blended-ov',
+                'Online - Self-paced': 'online-selfpaced',
+                'Online - Virtual': 'online-virtual',
+                'Onsite': 'onsite'}
+    for detail in details:
+        course_type = detail.get("type", '')
+        if "Live Virtual" in course_type:
+            detail["type"] = detail["type"].replace("Live Virtual", 'Virtual')
+    type_set = set()
+    for detail in details:
+        type = detail.get("type")
+        if type not in type_set:
+            type_set.add(type)
+    print(type_set)
+
+    for type in type_set:
+        if type not in type_map:
+            print(f"{type} format not right")
+    return
+
+
+def test_import():
+    details = read_from_json('./final_files/detail_8888_EUR_XW_0524.json')
+    test_details = details[:30]
+    write_to_json(test_details, './final_files/detail_test.json')
+    return
+
+# test_import()
+
+
+def delete_none_location():
+    details = read_from_json('./final_files/detail_8888_EUR_XW_0524.json')
+    for detail in details:
+        locations = detail.get("location")
+        for i,loc in enumerate(locations):
+            if not isinstance(loc, str) and "Fontainebleau, ----, France" not in locations:
+                locations[i] = "Fontainebleau, ----, France"
+            elif not isinstance(loc, str) and "Fontainebleau, ----, France" in locations:
+                del locations[i]
+
+    write_to_json(details, './final_files/detail_8888_EUR_XW_0524.json')
+
 
 
 

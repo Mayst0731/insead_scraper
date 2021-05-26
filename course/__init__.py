@@ -7,6 +7,7 @@ import pprint
 #         coroutines.append(course_page_detail(detail, session))
 #     final_details = await asyncio.gather(*coroutines)
 
+
 async def extract_courses(category_list,session):
     print('hello course')
     course_list = []

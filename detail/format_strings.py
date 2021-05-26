@@ -111,7 +111,7 @@ def get_multi_module_course_type(locations):
     }
     types = ''
     if 'Online' not in locations and 'Live Virtual' not in locations:
-        return 'Onsite-self-paced'
+        return 'Onsite'
     elif 'Online' in locations or "Blended" in locations:
         types = 'Blended - Onsite & self-paced'
     elif 'Live Virtual' in locations:
